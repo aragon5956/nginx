@@ -1,4 +1,4 @@
-<h1>Je m'appelle Alexandre et je suis en train d'ajouter des fonctionnalités pour créer les dossiers de logs et porposer puis mettre les propriétaires des executables nginx à root ou nginx pour les utilisateurs ou groupes. Ne télécharger que si je vous dis dans ce message même, de le faire,que je ferais par la suite</h1>
+<h1>Je m'appelle Alexandre et je suis en train d'ajouter des fonctionnalités pour créer les dossiers de logs et proposer puis mettre les propriétaires des executables nginx à root ou nginx pour les utilisateurs ou groupes. Ne télécharger que si je vous dis dans ce message même, de le faire,que je ferais par la suite</h1>
 
 
 <picture>
