@@ -1,6 +1,22 @@
 <h1>Je m'appelle Alexandre et je suis en train d'ajouter des fonctionnalités pour créer les dossiers de logs et proposer puis mettre les propriétaires des executables nginx à root ou nginx pour les utilisateurs ou groupes. Ne télécharger que si je vous dis dans ce message même, de le faire,ce que je ferais par la suite</h1>
 
-
+<p>
+#rajouter ceci dans le makeFile en attendant qu le fichier configure soit finalisé pour une bonne désinstallation
+  uninstall:
+	rm -rf $NGX_PREFIX
+	rm -f  $NGX_SBIN_PATH
+	rm -f  $NGX_CONF_PATH
+	rm -f  $NGX_PID_PATH
+	rm -f  $NGX_LOCK_PATH
+	rm -f  $NGX_ERROR_LOG_PATH
+	rm -f  $NGX_HTTP_LOG_PATH
+	rm -rf $NGX_HTTP_CLIENT_TEMP_PATH
+	rm -rf $NGX_HTTP_PROXY_TEMP_PATH
+	rm -rf $NGX_HTTP_FASTCGI_TEMP_PATH
+	rm -rf $NGX_HTTP_UWSGI_TEMP_PATH
+	rm -rf $NGX_HTTP_SCGI_TEMP_PATH
+END
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/9335b488-ffcc-4157-8364-2370a0b70ad0">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3a7eeb08-1133-47f5-859c-fad4f5a6a013">
