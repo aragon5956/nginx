@@ -1,4 +1,5 @@
 <h1>Je m'appelle Alexandre et je suis en train d'ajouter des fonctionnalités pour créer les dossiers de logs et proposer puis mettre les propriétaires des executables nginx à root ou nginx pour les utilisateurs ou groupes. Ne télécharger que si je vous dis dans ce message même, de le faire,ce que je ferais par la suite</h1>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 
 <p class="red">
 #rajouter ceci dans le makeFile en attendant qu le fichier configure soit finalisé pour une bonne désinstallation
