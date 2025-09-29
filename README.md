@@ -1,5 +1,5 @@
 
-<h1>Ici je deploye un branche dans le but de corriger des problèmes lié à la pensée de gôche qui produit de plus en plus de logicels foireux</h1>
+<h1>Ici je deploye un branche dans le but de corriger des problèmes lié à la pensée de gôche qui produit de plus en plus de logiciels foireux</h1>
 <p>N'installer vous même, mes modifications que si vous les comprenez </p>
 
 <picture>
